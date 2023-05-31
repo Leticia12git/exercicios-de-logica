@@ -1,0 +1,16 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "numero3".(£ð¾Ø
+P
+java:S1854";Remove this useless assignment to local variable "numero2".(ŽŒ—s
+V
+java:S1854";Remove this useless assignment to local variable "numero1".(¨Ñä¡ùÿÿÿÿ
+G
+java:S1481",Remove this unused "numero1" local variable.(¨Ñä¡ùÿÿÿÿ
+A
+java:S1481",Remove this unused "numero2" local variable.(ŽŒ—s
+B
+java:S1481",Remove this unused "numero3" local variable.(£ð¾Ø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Èú£Ì
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
